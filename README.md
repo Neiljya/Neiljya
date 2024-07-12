@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Neil Yang
-- 👀 I’m interested in Computer Science and related fields
+- 👀 I’m interested in Computer Science 
 - ⚡ Fun fact: Roblox taught me how to code
 
 <!---
